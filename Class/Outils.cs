@@ -74,17 +74,7 @@ namespace VacumUI
             }
         }
 
-        internal static String searchSite(string site)
-        {
-            switch (site)
-            {
-                case "a":
-                    LelScan lel = new LelScan();
-                    return lel.LelScanUrlMangaRoot.ToString();
-                default:
-                    throw new Exception();
-            }
-        }
+
 
         internal static void zipAndDel(Manga m1)
         {
@@ -117,6 +107,18 @@ namespace VacumUI
             {
                 case "www.lelscan-vf.com":
                     return "a";
+                default:
+                    throw new Exception();
+            }
+        }
+
+        internal static String searchSite(string site)
+        {
+            switch (site)
+            {
+                case "a":
+                    LelScan lel = new LelScan();
+                    return lel.LelScanUrlMangaRoot.ToString();
                 default:
                     throw new Exception();
             }

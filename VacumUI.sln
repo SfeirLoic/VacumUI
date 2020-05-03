@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VacumUI", "VacumUI.csproj", "{7CBE3B18-84CF-4143-936E-D3E50BE2CE16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CBE3B18-84CF-4143-936E-D3E50BE2CE16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CBE3B18-84CF-4143-936E-D3E50BE2CE16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CBE3B18-84CF-4143-936E-D3E50BE2CE16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CBE3B18-84CF-4143-936E-D3E50BE2CE16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF100B1E-5566-4DE2-A079-05F2D3B99DC8}
+	EndGlobalSection
+EndGlobal

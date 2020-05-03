@@ -1,0 +1,15 @@
+C:\Users\peter\source\repos\VacumUI\bin\Release\VacumUI.exe.config
+C:\Users\peter\source\repos\VacumUI\bin\Release\VacumUI.exe
+C:\Users\peter\source\repos\VacumUI\bin\Release\VacumUI.pdb
+C:\Users\peter\source\repos\VacumUI\bin\Release\HtmlAgilityPack.dll
+C:\Users\peter\source\repos\VacumUI\bin\Release\HtmlAgilityPack.pdb
+C:\Users\peter\source\repos\VacumUI\bin\Release\HtmlAgilityPack.xml
+C:\Users\peter\source\repos\VacumUI\obj\Release\VacumUI.csprojAssemblyReference.cache
+C:\Users\peter\source\repos\VacumUI\obj\Release\VacumUI.f_opt.resources
+C:\Users\peter\source\repos\VacumUI\obj\Release\VacumUI.f_main.resources
+C:\Users\peter\source\repos\VacumUI\obj\Release\VacumUI.Properties.Resources.resources
+C:\Users\peter\source\repos\VacumUI\obj\Release\VacumUI.csproj.GenerateResource.cache
+C:\Users\peter\source\repos\VacumUI\obj\Release\VacumUI.csproj.CoreCompileInputs.cache
+C:\Users\peter\source\repos\VacumUI\obj\Release\VacumUI.csproj.CopyComplete
+C:\Users\peter\source\repos\VacumUI\obj\Release\VacumUI.exe
+C:\Users\peter\source\repos\VacumUI\obj\Release\VacumUI.pdb
